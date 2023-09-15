@@ -1,5 +1,5 @@
 ---
-title: Safari extensions
+title: Расширения Safari
 sidebar_position: 3
 ---
 
@@ -25,13 +25,13 @@ There are also two extensions responsible for other features:
 
 – *AdGuard Safari Icon* enables AdGuard's icon next to the search bar in Safari – *AdGuard Advanced Blocking* allows using advanced rules to block complex ads
 
-![Safari extensions](https://uploads.adguard.org/safari_extensions.png)
+![Расширения Safari](https://uploads.adguard.org/safari_extensions.png)
 
-More on each extension below.
+Подробнее о каждом расширении ниже.
 
-## Content-blocking extensions
+## Расширения для блокировки контента
 
-*AdGuard General* applies rules from filters that you can find in *Filters* → *Ad blocking* and *Filters* → *Language-specific*. This extension focuses on comprehensive ad blocking and includes filters for ads in specific languages.
+*AdGuard Основные* применяет правила из раздела *Фильтры*, которые вы можете найти в подразделах *Блокировка рекламы* и *Языковые*. Это расширение ориентировано на комплексную блокировку рекламы и включает фильтры для рекламы на определённых языках.
 
 *AdGuard Privacy* applies rules from filters located in *Filters* → *Privacy*. It blocks tracking mechanisms and ensures that your browsing activity remains private.
 
